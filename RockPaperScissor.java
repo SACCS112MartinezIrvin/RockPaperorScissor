@@ -82,3 +82,5 @@ public class RockPaperScissor {
 			scanner.close();
 	}
 }
+
+// Test invalid choice
